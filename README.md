@@ -2,7 +2,10 @@
 My data analysis projects
 
 Hello! 👋  
-I am an aspiring Data Analyst.
+I am an ambitious data analyst with a 
+strong passion for exploring and learning 
+new technologies, continuously enhancing
+ my data analysis skills using a variety of analytical tools.
 
 ## Skills
 - Excel
