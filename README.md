@@ -1,5 +1,4 @@
-# Data-Analysis-portfolio
-My data analysis projects
+# Profile
 
 Hello! 👋  
 I am an ambitious data analyst with a 
